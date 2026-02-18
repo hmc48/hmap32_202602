@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_32_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ウェルライフ三刀屋【地域密着型特定施設入居者生活介護（有料老人ホーム）】島根県雲南市三刀屋町下熊谷1675番地2", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3291400210-00&ServiceCd=361&Type=search", "url2": "https://welllife-mitoya.com/" }, "geometry": { "type": "Point", "coordinates": [ 132.8966705, 35.3062713 ] } }
+]
+}
